@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/Main.dir/main.cpp.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/main.cpp",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/main.cpp"
+},
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build",
+  "command": "/usr/bin/clang++  -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/include -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/MyTest.dir/test.cpp.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/test.cpp",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/test.cpp"
+},
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/include -I/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/include -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/include -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/include -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/include -I/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/include -isystem /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/sanskarsahu/Downloads/AV-Technical-2022-T3-main/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
